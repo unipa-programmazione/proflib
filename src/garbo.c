@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <string.h>
+
+void garbo(char *vettore[101][101])
+{
+	int i = 0;
 	strcpy(vettore[i], "                                         --/shmmmmmmmmmdssssss:.                                    \0");  i++;
 	strcpy(vettore[i], "                                    :/syNNMMMMMMMMMMMMMMMMMMMMMNo-                                  \0");  i++;
 	strcpy(vettore[i], "                                 -hNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNm/                                \0");  i++;
@@ -22,7 +28,7 @@
 	strcpy(vettore[i], "                      +MMMMMMhNNMMyoMmMMsyo.      hmMMNym/-NdMMNMMMMMMMMMMMMMMMMMMy +-              \0");  i++;
 	strcpy(vettore[i], "                       NMMMm+-hsoh-:yhdo::: .- --oMMMMmoo//oshsNMMMMMMMMMMMMMMMMdymos-              \0");  i++;
 	strcpy(vettore[i], "                   :   +MMMMNh+   --...--  -s. -omMMMMNs   ---.smmMMMMMMMMMMMMMMyhMMy               \0");  i++;
-	strcpy(vettore[i], "                   .   -hMMMMMo-            - /sENNUPLAHh/--   -..dMMMMMMMMMMMMMMMMMo               \0");  i++;
+	strcpy(vettore[i], "                   .   -hMMMMMo-            - /sENNUPLAh/--   -..dMMMMMMMMMMMMMMMMMo                \0");  i++;
 	strcpy(vettore[i], "                     -+-.MMMMo--            -ymdyNMMMMMMMMmh+y:oy+NMMMMMMMMMMMMMMMMy                \0");  i++;
 	strcpy(vettore[i], "                   o.--- MMMd              .:h-  .mMMMMMMmds.oyosdMMMMMMMMMMMMMMMMy-                \0");  i++;
 	strcpy(vettore[i], "                   :Ny--.NMN:             -md-    :NMMMMM/      hMMMMMMMMMMMMMMMMy                  \0");  i++;
@@ -45,4 +51,5 @@
 	strcpy(vettore[i], "MMMMMMMMMMMMMMMMMMd+oMMMMMMMMMMMMMMy.  .dMMMd--      -dMMMMMMMMMMy. dMMMMMMMMMMM.sMMMMMMMMMMMMMMMMMM\0");  i++;
 	strcpy(vettore[i], "MMMMMMMMMMMMMMMMMd-oMMMMMMMMMMdMMMMMs   -oNMmmo     :NMNNMMMMMMm/- -MMMMMMMMMMMM/NMMMMMMMMMMMMMMMMMM\0");  i++;
 	strcpy(vettore[i], "MMMMMMMMMMMMMMMMN-/MMMMMMMMMMMdMMMMMd.    :M+-    o/y+---MMMMMN/   -MMMMMMMMMMMh:MMMMMMMMMMMMMMMMMMM\0");  i++;
-	strcpy(vettore[i], "MMMMMMMMMMMMMMMM+:MMMMMMMMMMMo/mMMMMMs     yN/           sMMMM+    -MMMMMMMMMMMomMMMMMMMMMMMMMMMMMMM\0");  
+	strcpy(vettore[i], "MMMMMMMMMMMMMMMM+:MMMMMMMMMMMo/mMMMMMs     yN/           sMMMM+    -MMMMMMMMMMMomMMMMMMMMMMMMMMMMMMM\0");
+}
