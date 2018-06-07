@@ -1,39 +1,48 @@
-strcpy(vettore[j], "                                                             `.-```                                 "); j++;
-strcpy(vettore[j], "                                                          `/hNNNNmmdhs+/`                           "); j++;
-strcpy(vettore[j], "                                   `                    .omMMMMMMMMMMMMMmy.                         "); j++;
-strcpy(vettore[j], "                                   `h+`    -`          +NMMMMMMNmhs+:---sNm:                        "); j++;
-strcpy(vettore[j], "                  ``            ++:-:dm+  oNo         yMMmNMMMN+`        /MNo`                      "); j++;
-strcpy(vettore[j], "                 /my            .+hdmhmMy:yMm        -MMh`:dMy.           oMMy                      "); j++;
-strcpy(vettore[j], "                `mM: `-.``        `.+dNMMNmMM:       yMMo :dNd`           `MMh                      "); j++;
-strcpy(vettore[j], "           :    oMd.ymmso-           `yMMMMMMy       sMMy -sdy:`           NMs`                     "); j++;
-strcpy(vettore[j], "          :N-  .NM+dMN.           ..` +MMMMMMN`      +MMdsmMMMNms`1CNOC+/:-mMso                     "); j++;
-strcpy(vettore[j], "          .Md` /MMsMMy   -+o/.`.:ymmdyoMMMMMMN`      .MMMMMMMMMMMhmMMMMNmysNMo`                     "); j++;
-strcpy(vettore[j], "           dMh /mMMMMy`-yNMNhdyNNo/odNMMMMMMMM/       NMMMMMMMMMd+d/smMho+-yd+.                     "); j++;
-strcpy(vettore[j], "           oMMy+dMMMMMmNMm+. -oM+   `/MMMMMMMMd-      shdNMMMMMN- .s+s+-``--.+/-                    "); j++;
-strcpy(vettore[j], "           +MMMMMMMMMMMMm.    `/      hMMMMMMMMNo`    `y:hMMMMNho- --hs/``  ` `-                    "); j++;
-strcpy(vettore[j], "           hMMMMMMMMMMMM/             `oNMMMMMMMMdo:.` o:mMMMMMMMd---+NN+  `y-....``  ```           "); j++;
-strcpy(vettore[j], "           mMMMMMMMMMMMM:  PRINDEFFE   `oMMMMMMMMMMm:.::mdNMMMMMNh/.`./dN  +//:-+h/+//+o+- ``       "); j++;
-strcpy(vettore[j], "          +MMMMMMMMMMMMMm.          .:sdNMMMMMMMMMMMNs.`.-hMNMMmh/-.`/:+o -m sd//MNMMd`  `/hd-   ```"); j++;
-strcpy(vettore[j], "         `mMMMMMMMMMMMMMMm+`   `./sdmMNMNNMMMMMMMMMMNh-:yNMMyodMNs-     `-my:-MNNMMMMM-.odds/`   .o:"); j++;
-strcpy(vettore[j], "         /MMMMMMMMMMMMMMMNNdhhyhNMMhoo----:sdNMMMMMd/+dMMMMMMd/smNh`    -mMm/mMMMMMMdosNN+        ` "); j++;
-strcpy(vettore[j], "         hMMMMMMMMMMNdo::--/odmMMN+         `-omMNyymMMMMMMMMMNy-.    ./mMMhdMMMMMMN`yms-`          "); j++;
-strcpy(vettore[j], "        `NMMMMMMMMMy-`        .ym/             .hmNMMMMMMMMMMMMMd-`` -dMMMmhMMMMMMMd+ds.            "); j++;
-strcpy(vettore[j], "        -NMMMMMMMMh`            ``             -+/sMMMMMMMMMMMMMmddh/..sMNhMMMMMMMMMMMmo``          "); j++;
-strcpy(vettore[j], "        :NMMMMMMMM+-                      ``:.+s.sMMMMMMMMMMMMMMmNMMNm/.oyMMMMMMMMMMMMMhho.`        "); j++;
-strcpy(vettore[j], "        /MMMMMMMMMs:                     -.smomNoMMMMMMMMMMMMMMMMMMMMMMNd//ymMMMMMMMMMMMMy:::`      "); j++;
-strcpy(vettore[j], "        /MMMMMMMMMd-                   `sdydMNMmNMMMMMMMMMMMMMMMMMMMMMMMMd-../sNMMMMMMMMd+-         "); j++;
-strcpy(vettore[j], "        /MMMMMMMMMM:                 `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmms/`-+hmMMMMN+.          "); j++;
-strcpy(vettore[j], "        /MMMMMMMMMMy               `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms` `:oyN/            "); j++;
-strcpy(vettore[j], "        /MMMMMMMNmMh-             /mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/-   --   .`       "); j++;
-strcpy(vettore[j], "        -MMMMMMMhNMmy           `/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhy/.-    ..:.     "); j++;
-strcpy(vettore[j], "        `NMMMMMMMMMMd-        `/dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMNN/`     ..-   "); j++;
-strcpy(vettore[j], "         NMMMMMMMMMMNd     `-smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+` :-  ``  "); j++;
-strcpy(vettore[j], "         dMMMMMMMMMMMMy.`-odMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs:m/ `. ."); j++;
-strcpy(vettore[j], "         oMMMMMMMMMMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo`ho."); j++;
-strcpy(vettore[j], "         :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdoMd"); j++;
-strcpy(vettore[j], "         `MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); j++;
-strcpy(vettore[j], "          dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); j++;
-strcpy(vettore[j], "          yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); j++;
-strcpy(vettore[j], "          /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); j++;
-strcpy(vettore[j], "          :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); j++;
-strcpy(vettore[j], "          `dmmmmmmhhhhhhhhhhhmmmmmmmmmmmdmmmmmmmmmmmmdmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); 
+#include <stdio.h>
+#include <string.h>
+
+void conc1(char *vettore[101][101])
+{
+	int i = 0;
+
+	strcpy(vettore[i], "                                                             `.-```                                 "); i++;
+	strcpy(vettore[i], "                                                          `/hNNNNmmdhs+/`                           "); i++;
+	strcpy(vettore[i], "                                   `                    .omMMMMMMMMMMMMMmy.                         "); i++;
+	strcpy(vettore[i], "                                   `h+`    -`          +NMMMMMMNmhs+:---sNm:                        "); i++;
+	strcpy(vettore[i], "                  ``            ++:-:dm+  oNo         yMMmNMMMN+`        /MNo`                      "); i++;
+	strcpy(vettore[i], "                 /my            .+hdmhmMy:yMm        -MMh`:dMy.           oMMy                      "); i++;
+	strcpy(vettore[i], "                `mM: `-.``        `.+dNMMNmMM:       yMMo :dNd`           `MMh                      "); i++;
+	strcpy(vettore[i], "           :    oMd.ymmso-           `yMMMMMMy       sMMy -sdy:`           NMs`                     "); i++;
+	strcpy(vettore[i], "          :N-  .NM+dMN.           ..` +MMMMMMN`      +MMdsmMMMNms`1CNOC+/:-mMso                     "); i++;
+	strcpy(vettore[i], "          .Md` /MMsMMy   -+o/.`.:ymmdyoMMMMMMN`      .MMMMMMMMMMMhmMMMMNmysNMo`                     "); i++;
+	strcpy(vettore[i], "           dMh /mMMMMy`-yNMNhdyNNo/odNMMMMMMMM/       NMMMMMMMMMd+d/smMho+-yd+.                     "); i++;
+	strcpy(vettore[i], "           oMMy+dMMMMMmNMm+. -oM+   `/MMMMMMMMd-      shdNMMMMMN- .s+s+-``--.+/-                    "); i++;
+	strcpy(vettore[i], "           +MMMMMMMMMMMMm.    `/      hMMMMMMMMNo`    `y:hMMMMNho- --hs/``  ` `-                    "); i++;
+	strcpy(vettore[i], "           hMMMMMMMMMMMM/             `oNMMMMMMMMdo:.` o:mMMMMMMMd---+NN+  `y-....``  ```           "); i++;
+	strcpy(vettore[i], "           mMMMMMMMMMMMM:  PRINDEFFE   `oMMMMMMMMMMm:.::mdNMMMMMNh/.`./dN  +//:-+h/+//+o+- ``       "); i++;
+	strcpy(vettore[i], "          +MMMMMMMMMMMMMm.          .:sdNMMMMMMMMMMMNs.`.-hMNMMmh/-.`/:+o -m sd//MNMMd`  `/hd-   ```"); i++;
+	strcpy(vettore[i], "         `mMMMMMMMMMMMMMMm+`   `./sdmMNMNNMMMMMMMMMMNh-:yNMMyodMNs-     `-my:-MNNMMMMM-.odds/`   .o:"); i++;
+	strcpy(vettore[i], "         /MMMMMMMMMMMMMMMNNdhhyhNMMhoo----:sdNMMMMMd/+dMMMMMMd/smNh`    -mMm/mMMMMMMdosNN+        ` "); i++;
+	strcpy(vettore[i], "         hMMMMMMMMMMNdo::--/odmMMN+         `-omMNyymMMMMMMMMMNy-.    ./mMMhdMMMMMMN`yms-`          "); i++;
+	strcpy(vettore[i], "        `NMMMMMMMMMy-`        .ym/             .hmNMMMMMMMMMMMMMd-`` -dMMMmhMMMMMMMd+ds.            "); i++;
+	strcpy(vettore[i], "        -NMMMMMMMMh`            ``             -+/sMMMMMMMMMMMMMmddh/..sMNhMMMMMMMMMMMmo``          "); i++;
+	strcpy(vettore[i], "        :NMMMMMMMM+-                      ``:.+s.sMMMMMMMMMMMMMMmNMMNm/.oyMMMMMMMMMMMMMhho.`        "); i++;
+	strcpy(vettore[i], "        /MMMMMMMMMs:                     -.smomNoMMMMMMMMMMMMMMMMMMMMMMNd//ymMMMMMMMMMMMMy:::`      "); i++;
+	strcpy(vettore[i], "        /MMMMMMMMMd-                   `sdydMNMmNMMMMMMMMMMMMMMMMMMMMMMMMd-../sNMMMMMMMMd+-         "); i++;
+	strcpy(vettore[i], "        /MMMMMMMMMM:                 `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMmms/`-+hmMMMMN+.          "); i++;
+	strcpy(vettore[i], "        /MMMMMMMMMMy               `+mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMms` `:oyN/            "); i++;
+	strcpy(vettore[i], "        /MMMMMMMNmMh-             /mMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/-   --   .`       "); i++;
+	strcpy(vettore[i], "        -MMMMMMMhNMmy           `/MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNhy/.-    ..:.     "); i++;
+	strcpy(vettore[i], "        `NMMMMMMMMMMd-        `/dNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMNN/`     ..-   "); i++;
+	strcpy(vettore[i], "         NMMMMMMMMMMNd     `-smMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm+` :-  ``  "); i++;
+	strcpy(vettore[i], "         dMMMMMMMMMMMMy.`-odMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNs:m/ `. ."); i++;
+	strcpy(vettore[i], "         oMMMMMMMMMMMMMMmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNo`ho."); i++;
+	strcpy(vettore[i], "         :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMdoMd"); i++;
+	strcpy(vettore[i], "         `MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); i++;
+	strcpy(vettore[i], "          dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); i++;
+	strcpy(vettore[i], "          yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); i++;
+	strcpy(vettore[i], "          /MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); i++;
+	strcpy(vettore[i], "          :MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); i++;
+	strcpy(vettore[i], "          `dmmmmmmhhhhhhhhhhhmmmmmmmmmmmdmmmmmmmmmmmmdmMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm"); 
+
+}
