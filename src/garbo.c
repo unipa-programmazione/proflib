@@ -22,13 +22,13 @@
 	strcpy(vettore[i], "                      +MMMMMMhNNMMyoMmMMsyo.      hmMMNym/-NdMMNMMMMMMMMMMMMMMMMMMy +-              \0");  i++;
 	strcpy(vettore[i], "                       NMMMm+-hsoh-:yhdo::: .- --oMMMMmoo//oshsNMMMMMMMMMMMMMMMMdymos-              \0");  i++;
 	strcpy(vettore[i], "                   :   +MMMMNh+   --...--  -s. -omMMMMNs   ---.smmMMMMMMMMMMMMMMyhMMy               \0");  i++;
-	strcpy(vettore[i], "                   .   -hMMMMMo-            - /sMMMMMMMNh/--   -..dMMMMMMMMMMMMMMMMMo               \0");  i++;
+	strcpy(vettore[i], "                   .   -hMMMMMo-            - /sENNUPLAHh/--   -..dMMMMMMMMMMMMMMMMMo               \0");  i++;
 	strcpy(vettore[i], "                     -+-.MMMMo--            -ymdyNMMMMMMMMmh+y:oy+NMMMMMMMMMMMMMMMMy                \0");  i++;
 	strcpy(vettore[i], "                   o.--- MMMd              .:h-  .mMMMMMMmds.oyosdMMMMMMMMMMMMMMMMy-                \0");  i++;
 	strcpy(vettore[i], "                   :Ny--.NMN:             -md-    :NMMMMM/      hMMMMMMMMMMMMMMMMy                  \0");  i++;
 	strcpy(vettore[i], "                   -smo-.oMm/             o/.-    .dMMMMMm-     mMMMMMMMMMMMMMMNy-                  \0");  i++;
 	strcpy(vettore[i], "                     ./+:+MM: --           --o:- -NMMNmMMMh:.-  /MMMMMMMMMMNhs/.                    \0");  i++;
-	strcpy(vettore[i], "                       -sNMMd---        -:.:/mmossMMMMMMMMMMNd- :MMMMMMMMMMh                        \0");  i++;
+	strcpy(vettore[i], "                       -sNMMd---        -:.:/vettoreMMMMMMMMNd- :MMMMMMMMMMh                        \0");  i++;
 	strcpy(vettore[i], "                         +mMMd:-       garbo/---dhdyNMMMMMMMMMmosMMMMMMMMMMy                        \0");  i++;
 	strcpy(vettore[i], "                          hMMMs:       ..--    .o.- -+hdMMMMMNMMMMMMMMMMMMMh/++++shhhhs+:..--       \0");  i++;
 	strcpy(vettore[i], "                          hMMMM+ +:     :++.-...---.sNMMMMMMm:mMMMMMMMMMMMMMMMMMMMMMMMMMMMMhhy+--   \0");  i++;
